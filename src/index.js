@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 import { createStore } from 'redux'
 import todoApp from './reducers'
 import './index.css';
-import App from './App';
+import App from './components/App';
 
 
 /* fer testin'
